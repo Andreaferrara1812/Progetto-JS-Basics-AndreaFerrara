@@ -3,7 +3,7 @@ Applicazione creata tramite JavaScript che permette di incrementare o diminuire 
 ***
 Indice:
 1. [Informazioni generali](#Informazioni_generali)
-2. [Screenshot] (#Screenshot)
+2. [Screenshot](#Screenshot)
 3. [Software usati](#Software_usati)
 4. [Installazione](#Installazione)
 ***
