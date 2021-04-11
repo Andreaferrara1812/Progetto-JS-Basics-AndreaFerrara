@@ -1,0 +1,57 @@
+
+/*Immagine di sfondo*/
+#intro{
+  background-image: url('https://pixabay.com/get/gb07553bb305e9200758e33bb8d2e9836c0abc744f54b0bbeb279797d78a482ee2169061a6dbcf96742496cec00893e3a_1920.jpg');
+  height: 100vh;
+
+}
+@media (min-width: 576px) {
+        #intro {
+          margin-top: 0px;
+        }
+      }
+/*Immagine di sfondo*/
+
+/*Bottoni*/
+
+.btn-plus{
+  color: #F93154;
+}
+
+.btn-minus{
+  color: #1266F1;
+}
+
+.btn{
+  margin-bottom: 10%;
+}
+/*Bottoni*/
+
+/*Font e distanze*/
+
+#benvenuto{
+  font-size: 3.5em;
+ margin-bottom: 10%;
+  margin-top: 10%;
+}
+
+
+.indicazioni{
+  margin-bottom: 10%;
+
+}
+
+#contiamo{
+
+  font-size: 2.5em;
+  border: 5px solid;
+  border-color: purple;
+  background-color: yellow;
+}
+
+#corsa{
+  margin-bottom: 10%;
+  font-size: 3em;
+  font-weight: bold;
+}
+/*Font e distanze*/
