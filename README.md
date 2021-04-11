@@ -6,6 +6,7 @@ Indice:
 2. [Screenshot](#Screenshot)
 3. [Software usati](#Software_usati)
 4. [Installazione](#Installazione)
+5. [Prova adesso](#Prova_adesso)
 ***
 ### Informazioni generali
 Questo progetto consiste nel creare un'applicazione capace di interagire con l'utente, il quale attraverso due pulsanti  riesce a incrementare o diminuire il valore di un counter. Questo progetto l'ho sviluppato per Start2Impact per dimostrare le competenze acquisite dopo aver studiato la superguida JavaScript Basics.
@@ -19,3 +20,7 @@ Per la creazione di questo progetto ho usato "Atom" come editor e "Google Chrome
 ### Installazione
 Per poter sviluppare tutto il necessario ho installato alcune estensioni su "Atom" come "Live Server" che serve per vedere in tempo reale i cambiamenti apportati con la stesura  del codice. Non è necessario installare altri pacchetti per creare questa applicazione se usiamo "Atom" come editor. 
 Sul terminal ho installato la versione 2.31 di git per aiutarmi nello sviluppo del codice, per scaricare git su Mac vi lascio il link che  ho  usato io: "https://git-scm.com/download/mac". 
+***
+### Prova adesso
+Qui vi lascio il link dove potete scaricare il codice della mia applicazione così da poterla provare:
+"https://github.com/Andreaferrara1812/Progetto-JS-Basics-AndreaFerrara.git"
