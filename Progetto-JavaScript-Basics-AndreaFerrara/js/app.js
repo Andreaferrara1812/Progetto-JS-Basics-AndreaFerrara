@@ -6,6 +6,9 @@ document.getElementById('benvenuto').innerHTML = 'Benvenuto ' + nomeUtente;
 //Prompt iniziale
 
 //Counter
+document.getElementById('plus').addEventListener('click', clickPlus);
+document.getElementById('minus').addEventListener('click', clickMinus);
+
 let count = 0;
 
 function clickPlus(){
