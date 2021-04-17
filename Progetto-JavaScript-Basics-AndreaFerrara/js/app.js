@@ -6,8 +6,27 @@ document.getElementById('benvenuto').innerHTML = 'Benvenuto ' + nomeUtente;
 //Prompt iniziale
 
 //Counter
-document.getElementById('plus').addEventListener('click', clickPlus);
-document.getElementById('minus').addEventListener('click', clickMinus);
+let btn0 = document.createElement('button');
+let plus = document.createTextNode('Plus+');
+btn0.appendChild(plus);
+document.getElementById('btn').appendChild(btn0);
+btn0.setAttribute('class', 'btn btn-danger')
+
+let conta = document.createElement('p');
+let zero = document.createTextNode(0);
+conta.appendChild(zero);
+document.getElementById('btn').appendChild(conta);
+conta.setAttribute('id', 'contiamo');
+
+let btn1 = document.createElement('button');
+let minus = document.createTextNode('Minus-');
+btn1.appendChild(minus);
+document.getElementById('btn').appendChild(btn1);
+btn1.setAttribute('class', 'btn btn-primary')
+
+
+document.getElementById('btn').firstChild.addEventListener('click', clickPlus);
+document.getElementById('btn').lastChild.addEventListener('click', clickMinus);
 
 let count = 0;
 
